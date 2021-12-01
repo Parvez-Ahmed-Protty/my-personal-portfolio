@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "name": "ROTORS CAR",
+    "img_1": "https://i.ibb.co/LhCWJdy/car1.png",
+    "img_2": "https://i.ibb.co/KFfXP19/car2.png",
+    "img_3": "https://i.ibb.co/RbzvTms/car4.png",
+    "dec_1": "Here, this app's main focus is to implement a user dashboard and admin dashboard.",
+    "dec_2": "On this website with login 2 systems email-password and google sign-in. On the explore page users can see all products. When a user selects the purchase button they are directed to the purchase page.",
+    "dec_3": "Users will find options such as pay bill, my orders, review,  and admin login, he will be able to see adding products, make admin,  manage products page. To check the website as an admin: admin@admin.com, password: 123456",
+    "liveWibsite": "https://retors-car.web.app/",
+    "cliendCode": "https://github.com/Parvez-Ahmed-Protty/rotors-car-webside",
+    "serverCode": "https://github.com/Parvez-Ahmed-Protty/rotors-car-server-side"
+  },
+  {
+    "id": "2",
+    "name": "AMAZING TOUR",
+    "img_1": "https://i.ibb.co/NCD9Zp5/tour1.png",
+    "img_2": "https://i.ibb.co/B4fTnhX/tour2.png",
+    "img_3": "https://i.ibb.co/NCD3Cym/Screenshot-1.png",
+    "dec_1": "Implement Management Page, Create New Event and Orders",
+    "dec_2": "Users can choose any travel package books. Users will find options such as my orders, create a new event, management page. If the user can delete any orders.",
+    "dec_3": "Responsive for mobile and desktop versions.",
+    "liveWibsite": "https://react-amazing-tour-x.web.app/",
+    "cliendCode": "https://github.com/Parvez-Ahmed-Protty/amazing-tour-cliend-side",
+    "serverCode": "https://github.com/Parvez-Ahmed-Protty/amazing-tour-server-side"
+  },
+  {
+    "id": "3",
+    "name": "HEALTH CARE",
+    "img_1": "https://i.ibb.co/f2Vd8Bp/doctor1.png",
+    "img_2": "https://i.ibb.co/7bKsQMV/doctor2.png",
+    "img_3": "https://i.ibb.co/bPmHS6y/doctor3.png",
+    "dec_1": "Implements Context API, Custom Hooks.",
+    "dec_2": "Users can find their doctors. If the user can see a doctor’s information.",
+    "dec_3": "Implement authentication systems like email-password and google sign-in.",
+    "liveWibsite": "https://nifty-poincare-daed3f.netlify.app/home",
+    "cliendCode": "https://github.com/Parvez-Ahmed-Protty/docpro-health-care",
+    "serverCode": ""
+  },
+  {
+    "id": "4",
+    "name": "STUDY ABROAD",
+    "img_1": "https://i.ibb.co/0KfqkHM/study1.png",
+    "img_2": "https://i.ibb.co/NKgb7J8/study2.png",
+    "img_3": "https://i.ibb.co/CmFjbhz/study3.png",
+    "dec_1": "Implements Context API, Custom Hooks.",
+    "dec_2": "Users can find their doctors. If the user can see a doctor’s information.",
+    "dec_3": "Implement authentication systems like email-password and google sign-in.",
+    "liveWibsite": "https://sleepy-lalande-f38764.netlify.app/",
+    "cliendCode": "https://github.com/Parvez-Ahmed-Protty/react-study-abroad",
+    "serverCode": ""
+  },
+  {
+    "id": "5",
+    "name": "PANDA COMMERCE",
+    "img_1": "https://i.ibb.co/WGk4Dkh/panda1.png",
+    "img_2": "https://i.ibb.co/ZdkYSWM/panda2.png",
+    "img_3": "https://i.ibb.co/0JzPFCB/panda3.png",
+    "dec_1": "Implements Bootstrap",
+    "dec_2": "Panda website template",
+    "dec_3": "Responsive for mobile and desktop versions.",
+    "liveWibsite": "https://parvez-ahmed-protty.github.io/responsive-panda-commerce/",
+    "cliendCode": "https://github.com/Parvez-Ahmed-Protty/responsive-panda-commerce",
+    "serverCode": ""
+  },
+  {
+    "id": "6",
+    "name": "HONDA CBR",
+    "img_1": "https://i.ibb.co/B2f302H/cbr1.png",
+    "img_2": "https://i.ibb.co/z5606TS/cbr2.png",
+    "img_3": "https://i.ibb.co/4R4hxNJ/cbr3.png",
+    "dec_1": "Implements Bootstrap",
+    "dec_2": "Bike website template",
+    "dec_3": "Responsive for mobile and desktop versions.",
+    "liveWibsite": "https://parvez-ahmed-protty.github.io/honda-cbr/",
+    "cliendCode": "https://github.com/Parvez-Ahmed-Protty/honda-cbr",
+    "serverCode": ""
+  },
+  {
+    "id": "7",
+    "name": "FOOTBALL CLUD",
+    "img_1": "https://i.ibb.co/QH66bNg/club1.png",
+    "img_2": "https://i.ibb.co/KjtjDxw/club2.png",
+    "img_3": "https://i.ibb.co/1RjhRvd/club3.png",
+    "dec_1": "Implement Bootstrap",
+    "dec_2": "Football club template",
+    "dec_3": "Responsive for mobile and desktop versions.",
+    "liveWibsite": "https://parvez-ahmed-protty.github.io/football-club/",
+    "cliendCode": "https://github.com/Parvez-Ahmed-Protty/football-club",
+    "serverCode": ""
+  }
+]

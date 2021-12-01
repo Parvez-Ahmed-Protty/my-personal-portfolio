@@ -1,0 +1,13 @@
+.banner-section {
+  padding: 5% 0px;
+}
+.img-bg {
+  box-sizing: border-box;
+  margin: 0px 30px;
+  background-color: #ffb400;
+  border-radius: 30px;
+}
+.text-size {
+  font-size: 50px;
+  font-weight: 800;
+}
