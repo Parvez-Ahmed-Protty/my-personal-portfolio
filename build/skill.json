@@ -1,0 +1,34 @@
+[
+  {
+    "name": "HTML",
+    "progress": "70"
+  },
+  {
+    "name": "CSS",
+    "progress": "50"
+  },
+  {
+    "name": "Java Script",
+    "progress": "50"
+  },
+  {
+    "name": "React",
+    "progress": "60"
+  },
+  {
+    "name": "Noje Js",
+    "progress": "50"
+  },
+  {
+    "name": "Mongodb",
+    "progress": "55"
+  },
+  {
+    "name": "React Bootstrap",
+    "progress": "80"
+  },
+  {
+    "name": "Bootstrap",
+    "progress": "85"
+  }
+]
