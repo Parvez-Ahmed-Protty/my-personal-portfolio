@@ -40,10 +40,9 @@ const Banner = () => {
             </h1>
             <Fade right>
               <p className="text-white">
-                I'm a Tunisian based web designer & front‑end developer focused
-                on crafting clean & user‑friendly experiences, I am passionate
-                about building excellent software that improves the lives of
-                those around me.
+                I am a Junior Web Developer. I have worked on multiple Junior
+                Web Developer projects. I devote my full attention to designing
+                and building websites. I constantly learn.
               </p>
             </Fade>
             <a
